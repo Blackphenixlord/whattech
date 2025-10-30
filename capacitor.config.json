@@ -1,0 +1,6 @@
+{
+  "appId": "com.Whatech.app",
+  "appName": "Whatech",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
